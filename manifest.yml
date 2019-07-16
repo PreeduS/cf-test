@@ -1,0 +1,8 @@
+---
+applications:
+ - name: test
+   random-route: false
+   memory: 128M
+   routes:
+    - route: testt-1.eu-gb.mybluemix.net
+   command: null
